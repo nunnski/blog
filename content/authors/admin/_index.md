@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Dr Stephen Nunn
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Director of Programmes / Senior Lecturer in Psychology
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
-  url: ""
+- name: Middlesex University
+  url: "https://www.mdx.ac.uk/about-us/our-people/staff-directory/profile/nunn-stephen"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the online measurement of stress and life events, network models, and metascience.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Open Science
+- Network models of personality and psychopathology
+- Online measurement of stress and life-events
 
 #education:
 #  courses:
@@ -47,15 +47,15 @@ social:
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wowchemy
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/geocushen
+  link: https://twitter.com/nunnski
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/geocushen
 
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/nunnski
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

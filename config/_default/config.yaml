@@ -64,3 +64,13 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+############################
+## SECURITY - ADDED BY ME
+############################
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
